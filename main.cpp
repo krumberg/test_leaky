@@ -6,5 +6,5 @@ int main()
 {
   int* p = make_p();
 
-  printf("p=%p\n", p);
+  printf("p=%lf\n", p);
 }
